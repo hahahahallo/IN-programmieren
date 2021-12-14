@@ -6,9 +6,9 @@ Dieses Programm rechnet dein BMI-Wert aus. Dafür musst du deine Grösse und dei
 ## Features:
 - Rechnet BMI aus
 - Hilfe zur Bewertung des Körpergewichts im Verhältnis zur Körpergrösse
-- BMI erleichtern internationaler Vergleich mit andernen Ländern weil er als Referenzwert verwendet wird
+- BMI erleichtert den internationalen Vergleich mit andernen Ländern weil er als Referenzwert verwendet wird
 
 ## Reflexion:
 Ich habe gelernt wie man programmiert.
 Ich habe gelernt wie ich selbständig nach Lösungen für die Probleme suche.
-ICh habe mitgenommen dass wenn man sich etwas in das programmieren eingelesen hat kann man sehr gut Dkument schön gestalten.
+Ich habe mitgenommen dass wenn man sich etwas in das programmieren eingelesen hat kann man sehr gut Dokumente schön gestalten.
